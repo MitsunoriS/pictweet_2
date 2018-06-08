@@ -17,5 +17,4 @@ end
     params.permit(:name, :image, :text)
   end
 
-
 end
