@@ -1,3 +1,3 @@
-Rails.application.routs.draw do |variable|
-  get 'tweets' => 'tweets#indes'
+Rails.application.routes.draw do
+  get 'tweets' => 'tweets#index'
 end
